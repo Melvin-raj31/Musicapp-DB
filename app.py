@@ -47,7 +47,7 @@ def init_db():
 # ─────────────────────────────────────────────────────────────────
 MUSICIANS = [
     {
-        "name": "Freddie Mercury", "emoji": "🎤", "genre": "Rock",
+        "name": "Melvin", "emoji": "🎤", "genre": "Rock",
         "era": "1970s–90s", "born": "1946, Zanzibar", "instrument": "Vocals, Piano",
         "tagline": "The Greatest Showman of Rock",
         "bio": "Farrokh Bulsara, known as Freddie Mercury, was the lead vocalist of Queen. Regarded as one of the greatest singers in history, he possessed a four-octave vocal range and a larger-than-life stage presence. His theatrical performances transformed rock concerts into unforgettable spectacles.",
