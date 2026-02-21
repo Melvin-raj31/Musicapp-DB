@@ -47,21 +47,21 @@ def init_db():
 # ─────────────────────────────────────────────────────────────────
 MUSICIANS = [
     {
-        "name": "Melvin", "emoji": "🎤", "genre": "Rock",
+        "name": "Melvin peter", "emoji": "🎤", "genre": "Rock",
         "era": "1970s–90s", "born": "1946, Zanzibar", "instrument": "Vocals, Piano",
         "tagline": "The Greatest Showman of Rock",
         "bio": "Farrokh Bulsara, known as Freddie Mercury, was the lead vocalist of Queen. Regarded as one of the greatest singers in history, he possessed a four-octave vocal range and a larger-than-life stage presence. His theatrical performances transformed rock concerts into unforgettable spectacles.",
         "known_for": ["Bohemian Rhapsody", "We Will Rock You", "Live Aid 1985"],
     },
     {
-        "name": "JOHN", "emoji": "🎺", "genre": "Jazz",
+        "name": "John nexson", "emoji": "🎺", "genre": "Jazz",
         "era": "1940s–90s", "born": "1926, Illinois", "instrument": "Trumpet",
         "tagline": "The Prince of Darkness",
         "bio": "Miles Davis was an American jazz trumpeter widely considered one of the most influential musicians of the 20th century. He pioneered multiple major developments in jazz — bebop, cool jazz, hard bop, and jazz fusion. His album Kind of Blue remains the best-selling jazz record of all time.",
         "known_for": ["Kind of Blue", "Bitches Brew", "Birth of the Cool"],
     },
     {
-        "name": "Henry Franklin", "emoji": "👑", "genre": "Soul",
+        "name": " Franklin", "emoji": "👑", "genre": "Soul",
         "era": "1960s–2010s", "born": "1942, Memphis", "instrument": "Vocals, Piano",
         "tagline": "The Queen of Soul",
         "bio": "Aretha Louise Franklin was an American singer and pianist. The undisputed Queen of Soul, she was the first woman inducted into the Rock and Roll Hall of Fame and won 18 Grammy Awards. Her recording of Respect became an anthem of both the civil rights and women's movements.",
