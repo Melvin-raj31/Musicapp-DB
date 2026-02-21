@@ -54,7 +54,7 @@ MUSICIANS = [
         "known_for": ["Bohemian Rhapsody", "We Will Rock You", "Live Aid 1985"],
     },
     {
-        "name": "John nexson", "emoji": "🎺", "genre": "Jazz",
+        "name": "John", "emoji": "🎺", "genre": "Jazz",
         "era": "1940s–90s", "born": "1926, Illinois", "instrument": "Trumpet",
         "tagline": "The Prince of Darkness",
         "bio": "Miles Davis was an American jazz trumpeter widely considered one of the most influential musicians of the 20th century. He pioneered multiple major developments in jazz — bebop, cool jazz, hard bop, and jazz fusion. His album Kind of Blue remains the best-selling jazz record of all time.",
