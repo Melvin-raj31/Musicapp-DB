@@ -49,7 +49,7 @@ MUSICIANS = [
     {
         "name": "Melvin peter", "emoji": "🎤", "genre": "Rock",
         "era": "1970s–90s", "born": "1946, Zanzibar", "instrument": "Vocals, Piano",
-        "tagline": "The Greatest Showman of Rock",
+        "tagline": "The Greatest Showman of Rock in India",
         "bio": "Farrokh Bulsara, known as Freddie Mercury, was the lead vocalist of Queen. Regarded as one of the greatest singers in history, he possessed a four-octave vocal range and a larger-than-life stage presence. His theatrical performances transformed rock concerts into unforgettable spectacles.",
         "known_for": ["Bohemian Rhapsody", "We Will Rock You", "Live Aid 1985"],
     },
@@ -61,14 +61,14 @@ MUSICIANS = [
         "known_for": ["Kind of Blue", "Bitches Brew", "Birth of the Cool"],
     },
     {
-        "name": " Daniel", "emoji": "👑", "genre": "Soul",
+        "name": " Nexson", "emoji": "👑", "genre": "Soul",
         "era": "1960s–2010s", "born": "1942, Memphis", "instrument": "Vocals, Piano",
         "tagline": "The Queen of Soul",
         "bio": "Aretha Louise Franklin was an American singer and pianist. The undisputed Queen of Soul, she was the first woman inducted into the Rock and Roll Hall of Fame and won 18 Grammy Awards. Her recording of Respect became an anthem of both the civil rights and women's movements.",
         "known_for": ["Respect", "Natural Woman", "Think"],
     },
     {
-        "name": "Jimi Hendrix", "emoji": "🎸", "genre": "Rock",
+        "name": "Surya", "emoji": "🎸", "genre": "Rock",
         "era": "1960s", "born": "1942, Seattle", "instrument": "Electric Guitar",
         "tagline": "The Electric Wizard",
         "bio": "James Marshall Hendrix was an American guitarist who fundamentally changed what was possible on an electric guitar. His innovative use of feedback, distortion, and whammy-bar techniques created an entirely new sonic language. Despite a career lasting just four years, his influence is incalculable.",
@@ -186,7 +186,7 @@ HTML_TEMPLATE = """
       border-radius: 50px; color: var(--muted); font-size: 0.75rem; letter-spacing: 1px;
       text-transform: uppercase; cursor: pointer; transition: all 0.2s; font-family: 'Lato', sans-serif;
     }
-    .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .filter-btn:hoNexsonborder-color: var(--accent); color: var(--accent); }
     .filter-btn.active { background: var(--accent); color: #0e0e0e; border-color: var(--accent); font-weight: 700; }
 
     .stats-bar { max-width: 960px; margin: 0 auto 1.2rem; padding: 0 2.5rem; font-size: 0.78rem; color: var(--muted); }
