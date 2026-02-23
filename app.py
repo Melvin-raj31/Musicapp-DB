@@ -61,7 +61,7 @@ MUSICIANS = [
         "known_for": ["Kind of Blue", "Bitches Brew", "Birth of the Cool"],
     },
     {
-        "name": " Nexson", "emoji": "👑", "genre": "Soul",
+        "name": "John Nexson", "emoji": "👑", "genre": "Soul",
         "era": "1960s–2010s", "born": "1942, Memphis", "instrument": "Vocals, Piano",
         "tagline": "The Queen of Soul",
         "bio": "Aretha Louise Franklin was an American singer and pianist. The undisputed Queen of Soul, she was the first woman inducted into the Rock and Roll Hall of Fame and won 18 Grammy Awards. Her recording of Respect became an anthem of both the civil rights and women's movements.",
@@ -82,14 +82,14 @@ MUSICIANS = [
         "known_for": ["Brandenburg Concertos", "Goldberg Variations", "Mass in B Minor"],
     },
     {
-        "name": "David Bowie", "emoji": "⚡", "genre": "Rock",
+        "name": "Shrikanth", "emoji": "⚡", "genre": "Rock",
         "era": "1970s–2010s", "born": "1947, London", "instrument": "Vocals, Guitar",
         "tagline": "The Chameleon of Rock",
         "bio": "David Bowie was an English singer-songwriter celebrated for his constant reinvention across five decades. From glam-rock Ziggy Stardust to soul-influenced Young Americans, Bowie blurred the boundaries between music, art, and fashion. He remained creatively restless until his final album Blackstar.",
         "known_for": ["Heroes", "Space Oddity", "Ziggy Stardust"],
     },
     {
-        "name": "Nina Simone", "emoji": "🎹", "genre": "Jazz",
+        "name": "Bala", "emoji": "🎹", "genre": "Jazz",
         "era": "1950s–90s", "born": "1933, North Carolina", "instrument": "Piano, Vocals",
         "tagline": "The High Priestess of Soul",
         "bio": "Nina Simone was an American singer, pianist, and civil rights activist. Her music defied genre, blending jazz, blues, gospel, folk, and classical. Beyond music she was a fierce advocate for racial equality — her songs became anthems of the civil rights movement.",
