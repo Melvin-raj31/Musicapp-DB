@@ -54,7 +54,7 @@ MUSICIANS = [
         "known_for": ["Bohemian Rhapsody", "We Will Rock You", "Live Aid 1985"],
     },
     {
-        "name": "Ranjith", "emoji": "🎺", "genre": "Jazz",
+        "name": "Ranjith ", "emoji": "🎺", "genre": "Jazz",
         "era": "1940s–90s", "born": "1926, Illinois", "instrument": "Trumpet",
         "tagline": "The Prince of Darkness",
         "bio": "Miles Davis was an American jazz trumpeter widely considered one of the most influential musicians of the 20th century. He pioneered multiple major developments in jazz — bebop, cool jazz, hard bop, and jazz fusion. His album Kind of Blue remains the best-selling jazz record of all time.",
@@ -103,14 +103,14 @@ MUSICIANS = [
         "known_for": ["No Woman No Cry", "One Love", "Redemption Song"],
     },
     {
-        "name": "Ella Fitzgerald", "emoji": "🌸", "genre": "Jazz",
+        "name": "jhanikiraman", "emoji": "🌸", "genre": "Jazz",
         "era": "1930s–90s", "born": "1917, Virginia", "instrument": "Vocals",
         "tagline": "The First Lady of Song",
         "bio": "Ella Fitzgerald was an American jazz vocalist known for her purity of tone, impeccable diction, and near-perfect intonation. Her three-octave vocal range and mastery of scat singing made her one of the most celebrated singers of all time. She won 13 Grammy Awards.",
         "known_for": ["Misty", "Summertime", "Scat singing mastery"],
     },
     {
-        "name": "Ludwig van Beethoven", "emoji": "🎻", "genre": "Classical",
+        "name": "Vicky", "emoji": "🎻", "genre": "Classical",
         "era": "1800s", "born": "1770, Bonn", "instrument": "Piano, Violin",
         "tagline": "The Titan of Classical Music",
         "bio": "Ludwig van Beethoven was a German composer who bridged the Classical and Romantic eras. Remarkably, he composed many of his greatest works — including the Ninth Symphony — after becoming almost completely deaf. His innovations in structure and harmonic language shaped all music that followed.",
