@@ -68,7 +68,7 @@ MUSICIANS = [
         "known_for": ["Respect", "Natural Woman", "Think"],
     },
     {
-        "name": "Surya", "emoji": "🎸", "genre": "Rock",
+        "name": "Surya mannakudi", "emoji": "🎸", "genre": "Rock",
         "era": "1960s", "born": "1942, Seattle", "instrument": "Electric Guitar",
         "tagline": "The Electric Wizard",
         "bio": "James Marshall Hendrix was an American guitarist who fundamentally changed what was possible on an electric guitar. His innovative use of feedback, distortion, and whammy-bar techniques created an entirely new sonic language. Despite a career lasting just four years, his influence is incalculable.",
@@ -82,7 +82,7 @@ MUSICIANS = [
         "known_for": ["Brandenburg Concertos", "Goldberg Variations", "Mass in B Minor"],
     },
     {
-        "name": "Shrikanth", "emoji": "⚡", "genre": "Rock",
+        "name": "Shrikanth chrompet", "emoji": "⚡", "genre": "Rock",
         "era": "1970s–2010s", "born": "1947, London", "instrument": "Vocals, Guitar",
         "tagline": "The Chameleon of Rock",
         "bio": "David Bowie was an English singer-songwriter celebrated for his constant reinvention across five decades. From glam-rock Ziggy Stardust to soul-influenced Young Americans, Bowie blurred the boundaries between music, art, and fashion. He remained creatively restless until his final album Blackstar.",
