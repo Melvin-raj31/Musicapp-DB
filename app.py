@@ -47,14 +47,14 @@ def init_db():
 # ─────────────────────────────────────────────────────────────────
 MUSICIANS = [
     {
-        "name": "Farrokh Bulsara", "emoji": "🎤", "genre": "Rock",
+        "name": "Melvin", "emoji": "🎤", "genre": "Rock",
         "era": "1970s–90s", "born": "1946, Zanzibar", "instrument": "Vocals, Piano",
         "tagline": "The Greatest Showman of Rock in India",
         "bio": "Farrokh Bulsara, known as Freddie Mercury, was the lead vocalist of Queen. Regarded as one of the greatest singers in history, he possessed a four-octave vocal range and a larger-than-life stage presence. His theatrical performances transformed rock concerts into unforgettable spectacles.",
         "known_for": ["Bohemian Rhapsody", "We Will Rock You", "Live Aid 1985"],
     },
     {
-        "name": "Miles Davis", "emoji": "🎺", "genre": "Jazz",
+        "name": "Bharathi", "emoji": "🎺", "genre": "Jazz",
         "era": "1940s–90s", "born": "1926, Illinois", "instrument": "Trumpet",
         "tagline": "The Prince of Darkness",
         "bio": "Miles Davis was an American jazz trumpeter widely considered one of the most influential musicians of the 20th century. He pioneered multiple major developments in jazz — bebop, cool jazz, hard bop, and jazz fusion. His album Kind of Blue remains the best-selling jazz record of all time.",
