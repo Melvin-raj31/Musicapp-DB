@@ -471,7 +471,7 @@ async function submitFeedback(){
     const res=await fetch('/feedback',{method:'POST',body:fd});
     const data=await res.json();
     if(res.ok){
-      showToast('✅ Feedback saved to RDS!','success');
+      showToast('✅ Feedback saved !','success');
       document.getElementById('fbName').value='';
       document.getElementById('fbEmail').value='';
       document.getElementById('fbMessage').value='';
