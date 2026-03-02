@@ -329,7 +329,7 @@ HTML_TEMPLATE = """
 
 <div class="feedback-section" id="feedback-section">
   <div class="section-title">Share Your <em style="color:var(--accent);font-style:normal">Feedback</em></div>
-  <p class="section-sub">Love a musician? Have suggestions? Your feedback is saved to <strong style="color:var(--text)">Amazon RDS (MySQL)</strong>.</p>
+  <p class="section-sub">Love a musician? Have suggestions?  <strong style="color:var(--text)">Your feedback helps us fine-tune the experience</strong>.</p>
   <div class="feedback-grid">
     <div class="feedback-form">
       <div class="form-title">✉ Send Feedback</div>
